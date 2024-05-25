@@ -1,0 +1,7 @@
+1. What will be the output for following code snippet ?
+
+example = ["Sunday","Monday", "Tuesday", "Wednesday"]
+print(example[-3:-1])
+
+Solution 
+Output : ['Monday', 'Tuesday']
