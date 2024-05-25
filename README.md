@@ -18,7 +18,8 @@ Set2
 
 
 3) Define and implement a class(es), representing binary tree with integer-values nodes, e.g.
-             5
+
+               5
            /       \
        3            2
     /     \
